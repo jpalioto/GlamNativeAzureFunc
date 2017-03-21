@@ -1,0 +1,18 @@
+{
+  "bindings": [
+    {
+      "type": "blob",
+      "name": "outputBlob",
+      "path": "images/{rand-guid}",
+      "connection": "AzureWebJobsDashboard",
+      "direction": "out"
+    },
+    {
+      "type": "httpTrigger",
+      "name": "req",
+      "authLevel": "function",
+      "direction": "in"
+    }
+  ],
+  "disabled": false
+}

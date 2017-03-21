@@ -1,1 +1,1 @@
-# GlanNativeAzureFunc
+# Azure Function Native
