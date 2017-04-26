@@ -4,7 +4,7 @@ There are two Azure Functions in this repo.  GlamNative uses a C++ native librar
 
 My bin directory looks like this ...
 
-![Bin Directory](/content/bin_directory.png)
+![Bin Directory](/Content/bin_directory.png)
 
 It contains all the native binaries I need including the proper version of the VC++ libraries.
 
